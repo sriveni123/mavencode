@@ -1,0 +1,31 @@
+8
+
+dir
+6
+http://192.168.33.10:8088/subversion/Mavencode/src/main
+http://192.168.33.10:8088/subversion
+
+
+
+2017-04-24T02:19:47.039154Z
+6
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ca84c6a2-26ab-11e7-994b-b9c5c22af40f
+
+java
+dir
+

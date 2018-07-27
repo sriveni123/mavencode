@@ -1,0 +1,81 @@
+8
+
+dir
+6
+http://192.168.33.10:8088/subversion/Mavencode
+http://192.168.33.10:8088/subversion
+
+
+
+2017-04-24T02:19:47.039154Z
+6
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ca84c6a2-26ab-11e7-994b-b9c5c22af40f
+
+.classpath
+file
+
+
+
+
+2017-04-24T02:31:06.127000Z
+5f35a5e4a269fe922014bbfc4c462a00
+2017-04-24T02:19:47.039154Z
+6
+
+.project
+file
+
+
+
+
+2017-04-24T02:31:06.132000Z
+4c08aff1412c49adbacb0e71ad30eec4
+2017-04-24T02:19:47.039154Z
+6
+
+.settings
+dir
+
+R1
+dir
+
+R1.txt
+file
+
+
+
+
+2017-04-24T02:31:06.137000Z
+69056156c6d222d65daa1d74b982f9e0
+2017-04-24T02:19:47.039154Z
+6
+
+pom.xml
+file
+
+
+
+
+2017-04-24T02:31:06.144000Z
+0914fb80217859811d9c22af29dce108
+2017-04-24T02:19:47.039154Z
+6
+
+src
+dir
+

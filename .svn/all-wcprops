@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/subversion/!svn/ver/6/Mavencode
+END
+R1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/subversion/!svn/ver/6/Mavencode/R1.txt
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/subversion/!svn/ver/6/Mavencode/pom.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/subversion/!svn/ver/6/Mavencode/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/subversion/!svn/ver/6/Mavencode/.classpath
+END
